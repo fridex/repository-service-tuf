@@ -74,7 +74,7 @@ into an intricate platform, the designing of how to implement a flexible,
 reusable TUF platform to integrate into different flows and infrastructures began.
 
 Repository Service for TUF aims to be an easy-to-use tool for Developers,
-DevOps, and DevOpsSec teams working on the delivery process.
+DevOps, and DevSecOps teams working on the delivery process.
 
 
 .. _TUF: https://theupdateframework.io
